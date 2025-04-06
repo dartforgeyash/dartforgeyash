@@ -24,21 +24,16 @@ I value conceptual accuracy and depth in my work, and I'm always eager to share 
 ## 📱 Featured Projects
 
 ### [Fortune Machine](https://play.google.com/store/apps/details?id=com.fortune.machine)
-![Fortune Machine](assets/icons/tenderDetail.webp)
+![Fortune Machine](https://play-lh.googleusercontent.com/mvgwBhzwbFKK8HbvqhWlZKcA6EW4tele00PCbQjx-WmB8xNI-DcIZMz5hEE7riQk3A=w480-h960-rw)
 
 ### [Sue](https://play.google.com/store/apps/details?id=com.client.lawyer)
-![Sue](assets/icons/sewabharti.webp)
+![Sue](https://play-lh.googleusercontent.com/2z7juR7963pr1t6so4moT6hLOoptkQ7K_yLhePklhrNfZnxdZcledG6DeSFTuEpyMQ=w480-h960-rw)
 
 ### [BlissVault](https://play.google.com/store/apps/details?id=com.blissvault.app)
-![BlissVault](assets/icons/workout.webp)
-
-### [DigiStore](https://play.google.com/store/apps/details?id=com.digirooar.digistore)
-![DigiStore](assets/icons/weather_info.webp)
+![BlissVault](https://play-lh.googleusercontent.com/mUisDG7DJTY_R91L5Rtze2im5NbSt8faSWQpFMCZ4J-I4SN_41HJR0aTJbqSFE32_gA=w480-h960-rw)
 
 ### [Medlin](https://play.google.com/store/apps/details?id=com.app.medlin)
-![Medlin](assets/icons/weldingWorksA.webp)
-
-### [CAW (Cars Always Wanted)](https://play.google.com/store/apps/details?id=com.caw)
+![Medlin](https://play-lh.googleusercontent.com/MCWnppHZ6va48YmxRVQBQ2krsqzyejnJQSdWskmbYcgar944KiF-GPu3XRFCbK5Rqg=w480-h960-rw)
 
 ### [24x7 Right Ap](https://rightway.world/)
 Download the app from the website
