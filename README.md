@@ -1,15 +1,31 @@
-# YashKumar Chovatiya
+# 💫 About Me:
+🔭 **I’m currently working on**<br>Building scalable, production-grade mobile applications using **Flutter**, focusing on clean architecture, performance optimization, and maintainable codebases. I actively work on marketplace and fintech-style applications involving complex UI flows, payment integrations, modular architecture, and real-world business logic implementation. My current focus includes improving app stability, optimizing user experience, and implementing enterprise-level state management solutions for long-term scalability.<br><br>👯 **I’m looking to collaborate on**<br>Innovative mobile app projects, startups, and product-driven platforms that require strong Flutter expertise. I’m especially interested in collaborating on SaaS platforms, fintech solutions, AI-powered applications, and marketplace ecosystems where clean architecture, performance, and scalable development practices are critical.<br><br>🤝 **I’m looking for help with**<br>Advanced system design discussions, large-scale Flutter architecture improvements, and exploring modern backend integrations such as AI automation, cloud infrastructure optimization, and high-performance real-time systems that enhance mobile product capabilities.<br><br>🌱 **I’m currently learning**<br>Fintech-grade application architecture, advanced **BLoC-based state management**, scalable modular project structures, and AI-assisted development workflows. I continuously explore better ways to write cleaner, testable, and production-ready Flutter code aligned with industry standards.<br><br>💬 **Ask me about**<br>Flutter app development, clean architecture implementation, state management migration (Provider/GetX → BLoC), Play Store & App Store deployment processes, performance optimization, UI/UX implementation, and converting business requirements into scalable mobile solutions.<br><br>⚡ **Fun fact**<br>I enjoy transforming complex ideas into smooth, high-performance mobile experiences — and I believe great apps are built not just with code, but with thoughtful architecture and attention to detail.<br>
 
-## Android & Flutter Developer Portfolio
 
-![Profile Views](https://komarev.com/ghpvc/?username=dartforgeyash&color=6e48aa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/yashkumar-chovatiya)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/dartforgeyash)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BBRrSN4z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/forgeofyash) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashDevHub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dartforge.yash@gmail.com) 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dartforgeyash&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dartforgeyash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dartforgeyash&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dartforgeyash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👋 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dartforgeyash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Android Application Developer specializing in Kotlin and Flutter. I bring a flexible team spirit and robust problem-solving abilities to every project, ensuring optimal solutions.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dartforgeyash&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dartforgeyash&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/forgeofyash) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/forgeofyash) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
